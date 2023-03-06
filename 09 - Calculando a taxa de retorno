@@ -1,0 +1,61 @@
+-Preferível ao lidar com vários ativos ao longo do mesmo período de tempo.
+
+taxa de retorno = (preço final - preço inicial) / preço inicial
+
+taxa de retorno = (116 - 105) / 105
+
+taxa de retorno = 10,5%  
+            == 
+taxa de retorno simples
+
+-----------------------------------
+
+-Quando são feitos cálculos sobre um único ativo ao longo do tempo.
+
+taxa de retorno logarítmica = log(preço final/preço inicial)
+
+taxa de retorno logarítmica = log(116/105)
+            ==
+taxa de retorno logarítmica = log116 - log105
+
+taxa de retorno logarítmica = 10%
+
+-----------------------------------
+
+PRAZO
+
+-Os investimentos com prazos diferentes não devem ser comparados
+
+annual return = [(daily return + 1)**365]*100
+            ==
+-Converta retornos diários, mensais e trimestrais para retornos anuais.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
